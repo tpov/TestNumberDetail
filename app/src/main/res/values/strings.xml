@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mornhouse</string>
+    <string name="enter_number">Enter a number</string>
+
+    <string name="confirm">Get the fact</string>
+    <string name="generate">Get a fact about a random number</string>
+    <string name="history">History</string>
+</resources>
